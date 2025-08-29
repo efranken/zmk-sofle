@@ -1,6 +1,7 @@
 - [Chinese](README.md)
 - [English](README_EN.md)
-
+holy crap man the settings reset file needs to be run on both boards before installing new firmware
+double press both bluetooth button to enter bootloader mode
 # Update List
 
 - 2024/12/21
