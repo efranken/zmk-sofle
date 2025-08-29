@@ -157,7 +157,7 @@ layers:
   - F12
   - _
   - +
-  - {t: '$$mdi:transfer$$', type: trans}
+  - '&studio_unlock'
   - OUT USB
   - OUT BLE
   - {t: '$$mdi:transfer$$', type: trans}
