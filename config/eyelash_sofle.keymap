@@ -62,7 +62,7 @@
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOL_DN>;
-            display-name = "LAYER0";
+            display-name = "Layer 0";
         };
 
         layer_1 {
@@ -71,10 +71,10 @@
 &trans      &kp LS(1)        &kp LS(2)       &kp LS(LEFT_BRACE)   &kp LS(RIGHT_BRACE)  &kp SLASH        &mmv MOVE_DOWN   &kp PG_UP        &kp N7           &kp N8      &kp N9     &kp MINUS         &kp EQUAL
 &trans      &kp LS(3)        &kp LS(4)       &kp LS(9)            &kp LS(0)            &kp GRAVE        &mmv MOVE_LEFT   &kp PG_DN        &kp N4           &kp N5      &kp N6     &kp LEFT_BRACKET  &kp RIGHT_BRACKET
 &trans      &kp LS(5)        &kp LS(6)       &kp LEFT_BRACE       &kp RIGHT_BRACE      &kp LS(GRAVE)    &mmv MOVE_RIGHT  &KP UP           &kp N1           &kp N2      &kp N3     &kp F12           &trans
-&kp C_MUTE  &trans           &trans          &trans               &trans               &trans           &mkp LCLK        &KP LEFT         &KP DOWN         &kp RIGH    &kp N0     &kp PERIOD
+&kp C_MUTE  &trans           &trans          &trans               &trans               &trans           &mkp LCLK        &KP LEFT         &KP DOWN         &kp RIGHT   &kp N0     &kp PERIOD
             >;
 
-            display-name = "layer1";
+            display-name = "Layer 1";
             sensor-bindings = <&scroll_encoder>;
         };
 
@@ -87,6 +87,7 @@
 &trans         &trans        &trans          &trans        &trans        &trans          &mkp LCLK        &trans  &trans  &trans      &trans     &trans
             >;
 
+            display-name = "Layer 2";
             sensor-bindings = <&scroll_encoder>;
         };
 
