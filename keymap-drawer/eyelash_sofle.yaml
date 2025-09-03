@@ -112,7 +112,7 @@ layers:
   - '}'
   - {t: Sft+`, s: Sft+~}
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
-  - '&KP UP'
+  - $$mdi:arrow-up-bold$$
   - {t: '1', s: '!'}
   - {t: '2', s: '@'}
   - {t: '3', s: '#'}
@@ -125,8 +125,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {type: held}
   - $$mdi:mouse-left-click-outline$$
-  - '&KP LEFT'
-  - '&KP DOWN'
+  - $$mdi:arrow-left-bold$$
+  - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-right-bold$$
   - {t: '0', s: )}
   - .
