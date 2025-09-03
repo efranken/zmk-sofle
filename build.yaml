@@ -2,6 +2,7 @@
 include:
   - board: eyelash_sofle_right
     shield: nice_view_custom
+    # eventually hits nice_view_custom.conf/overlay/zmk in nice-view-mod-dababy-car/boards/shields/nice_view_custom
   - board: eyelash_sofle_left
     shield: nice_view
     snippet: studio-rpc-usb-uart
