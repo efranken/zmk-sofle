@@ -7,7 +7,7 @@ manifest:
   projects:
     - name: nice-view-mod-dababy-car
       remote: dababy
-       revision: main 
+      revision: main 
     - name: eyelash_sofle
       url: https://github.com/a741725193/zmk-sofle
       revision: main
