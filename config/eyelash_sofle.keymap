@@ -70,8 +70,8 @@
 &kp GRAVE   &kp F1           &kp F2          &kp F3               &kp F4               &kp F5           &mmv MOVE_UP     &kp F6           &kp F7           &kp F8      &kp F9     &kp F10           &trans
 &trans      &kp LS(1)        &kp LS(2)       &kp LS(LEFT_BRACE)   &kp LS(RIGHT_BRACE)  &kp SLASH        &mmv MOVE_DOWN   &kp PG_UP        &kp N7           &kp N8      &kp N9     &kp MINUS         &kp EQUAL
 &trans      &kp LS(3)        &kp LS(4)       &kp LS(9)            &kp LS(0)            &kp GRAVE        &mmv MOVE_LEFT   &kp PG_DN        &kp N4           &kp N5      &kp N6     &kp LEFT_BRACKET  &kp RIGHT_BRACKET
-&trans      &kp LS(5)        &kp LS(6)       &kp LEFT_BRACE       &kp RIGHT_BRACE      &kp LS(GRAVE)    &mmv MOVE_RIGHT  &KP UP           &kp N1           &kp N2      &kp N3     &kp F12           &trans
-&kp C_MUTE  &trans           &trans          &trans               &trans               &trans           &mkp LCLK        &KP LEFT         &KP DOWN         &kp RIGHT   &kp N0     &kp PERIOD
+&trans      &kp LS(5)        &kp LS(6)       &kp LEFT_BRACE       &kp RIGHT_BRACE      &kp LS(GRAVE)    &mmv MOVE_RIGHT  &kp UP           &kp N1           &kp N2      &kp N3     &kp F12           &trans
+&kp C_MUTE  &trans           &trans          &trans               &trans               &trans           &mkp LCLK        &kp LEFT         &kp DOWN         &kp RIGHT   &kp N0     &kp PERIOD
             >;
 
             display-name = "Layer 1";
