@@ -14,7 +14,7 @@ layers:
   - {t: '9', s: (}
   - {t: '0', s: )}
   - {t: '-', s: _}
-  - DELET
+  - $$mdi:backspace-reverse-outline$$
   - Q
   - W
   - E
