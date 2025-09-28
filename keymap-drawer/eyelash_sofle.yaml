@@ -110,7 +110,7 @@ layers:
   - Sft+6
   - '{'
   - '}'
-  - {t: Sft+`, s: Sft+~}
+  - $$mdi:arrow-up-bold$$
   - {t: '$$mdi:menu-right$$', s: '$$mdi:mouse$$'}
   - $$mdi:arrow-up-bold$$
   - {t: '1', s: '!'}
@@ -121,9 +121,9 @@ layers:
   - $$mdi:volume-off$$
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
+  - $$mdi:arrow-up-bold$$
+  - $$mdi:arrow-down-bold$$
+  - $$mdi:arrow-right-bold$$
   - $$mdi:mouse-left-click-outline$$
   - {t: '$$mdi:arrow-left-bold$$', type: held}
   - $$mdi:arrow-down-bold$$
