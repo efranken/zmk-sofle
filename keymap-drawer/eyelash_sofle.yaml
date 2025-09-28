@@ -59,12 +59,12 @@ layers:
   - $$mdi:apple-keyboard-option$$
   - {t: '$$mdi:keyboard-return$$', type: enter}
   - Layer 2
+  - {t: '$$mdi:keyboard-return$$', type: enter}
   - Layer 1
   - $$mdi:keyboard-tab$$
   - $$mdi:keyboard-space$$
   - '3'
   - $$mdi:apple-keyboard-shift$$
-  - $$mdi:backspace-reverse-outline$$
   Layer 1:
   - {t: '`', s: '~'}
   - F1
@@ -124,8 +124,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:mouse-left-click-outline$$', type: held}
-  - $$mdi:arrow-left-bold$$
+  - $$mdi:mouse-left-click-outline$$
+  - {t: '$$mdi:arrow-left-bold$$', type: held}
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-right-bold$$
   - {t: '0', s: )}
@@ -257,8 +257,8 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
-  - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
+  - {type: held}
   - {t: '$$mdi:transfer$$', type: trans}
 combos:
 - p: [14, 28, 40]
